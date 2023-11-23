@@ -49,9 +49,9 @@ pip install -r requirements.txt
 Clone o repositório, navegue até o diretório e execute o script Python:
 
 ```
-git clone https://github.com/seu-usuario/seu-repositorio.git
-cd seu-repositorio
-python analyze_security.py security_data.csv
+git clone https://github.com/gimmelovej/Projeto-de-Seguran-a-Inteligente.git
+cd Projeto-sec
+python bonsoir.py 
 ```
 # Insights e Conclusões
 
